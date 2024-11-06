@@ -5,6 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>View Categories Page</title>
+    <style>
+        body {
+            font-family: cursive;
+            font-size: 15px;
+        }
+        nav{
+            position: static;
+        }
+       
+    </style>
 </head>
 
 <body>

@@ -12,6 +12,16 @@ session_start();
     <title>9_ITE</title>
     <link rel="stylesheet" href="./assets/css/bootstrap.css" />
     <link rel="stylesheet" href="./assets/css/main.css" />
+    <style>
+        body {
+            font-family: cursive;
+            font-size: 15px;
+        }
+        nav{
+            position: static;
+        }
+       
+    </style>
 </head>
 
 <body>
@@ -19,7 +29,7 @@ session_start();
     
     <!-- upper-nav -->
     <!-- Start NavBar -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <nav class="navbar navbar-expand-lg navbar-light bg-transparent">
         <div class="container">
             <a class="navbar-brand fw-bold" href="#">9_ITE</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse"

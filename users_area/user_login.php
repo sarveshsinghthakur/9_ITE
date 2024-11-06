@@ -12,6 +12,16 @@ include('../functions/common_functions.php');
     <title>Ecommerce User Login Page</title>
     <link rel="stylesheet" href="../assets/css/bootstrap.css" />
     <link rel="stylesheet" href="../assets/css/main.css" />
+    <style>
+        body {
+            font-family: cursive;
+            font-size: 15px;
+        }
+        nav{
+            position: static;
+        }
+       
+    </style>
 </head>
 
 <body>
@@ -19,6 +29,14 @@ include('../functions/common_functions.php');
     <div class="register">
         <div class="container py-3">
             <h2 class="text-center mb-4">User Login</h2>
+            <div class="social-login">
+    <p class="text-center">Or login with:</p>
+    <div class="d-flex justify-content-center gap-3">
+        <a href="google_login.php" class="btn btn-outline-danger">Google Login</a>
+        <a href="facebook_login.php" class="btn btn-outline-primary">Facebook Login</a>
+    </div>
+</div>
+
             <div class="row justify-content-center">
                 <div class="col-lg-6">
                     <form action="" method="post" class="d-flex flex-column gap-4">

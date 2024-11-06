@@ -43,6 +43,16 @@ if(isset($_POST['insert_product'])){
     <title>Insert Products - Admin Dashboard</title>
     <link rel="stylesheet" href="../assets/css/bootstrap.css" />
     <link rel="stylesheet" href="../assets/css/main.css" />
+    <style>
+        body {
+            font-family: cursive;
+            font-size: 15px;
+        }
+        nav{
+            position: static;
+        }
+       
+    </style>
 </head>
 
 <body>
