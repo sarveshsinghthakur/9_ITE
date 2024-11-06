@@ -68,7 +68,7 @@ session_start();
                 </ul>
                 <form class="d-flex">
                     <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-                    <button class="btn btn-outline-primary" type="submit">Search</button>
+                    <button class="btn btn-outline-success" type="submit">Search</button>
                 </form>
                 <ul class="navbar-nav mb-2 mb-lg-0">
                     <li class="nav-item">
@@ -381,8 +381,8 @@ session_start();
                 getIPAddress();
                 ?>
             </div>
-            <div class="view d-flex justify-content-center align-items-center">
-                <button onclick="location.href='./products.php'">View All Products</button>
+            <div class="view d-flex justify-content-center align-items-center ">
+                <button onclick="location.href='./products.php'" class="btn btn-outline-success">View All Products</button>
             </div>
         </div>
     </div>
