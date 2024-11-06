@@ -7,5 +7,4 @@
 <p align="center"><img src="./ui/Ecommerce-Admin-Dashboard.png" width="100%" alt="View"></p>
 <p align="center"><img src="./ui/Ecommerce-Admin-Dashboard (1).png" width="100%" alt="View"></p>
 <p align="center"><img src="./ui/Ecommerce-Admin-Dashboard (2).png" width="100%" alt="View"></p>
-<p align="center"><img src="./ui/Ecommerce-Admin-Dashboard (3).png" width="100%" alt="View"></p>
 <p align="center"><img src="./ui/Ecommerce-Admin-Dashboard (4).png" width="100%" alt="View"></p>
